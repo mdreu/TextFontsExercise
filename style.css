@@ -1,5 +1,9 @@
-span {
+html {
     font-family: 'Orbitron', sans-serif;
+}
+
+span {
+    
     font-weight: 800;
 }
 h1 {
